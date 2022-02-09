@@ -23,7 +23,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" style="padding-right:10px;" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="20px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.svg" style="padding-right:10px;" />
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
