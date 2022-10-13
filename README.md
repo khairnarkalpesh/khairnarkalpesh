@@ -1,6 +1,6 @@
 # 𝙷𝚎𝚕𝚕𝚘, 𝚆𝚘𝚛𝚕𝚍!🌎, I'm Kalpesh 👋 
 
-## I'm a Student, Intern, Web Developer, and Programmer!!
+## I'm a MERN Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
