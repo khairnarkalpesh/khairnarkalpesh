@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more than previous year
+- 🥅 2023 Goals: Learn more than previous year
 - ⚡ Fun fact: U will never regret meeting me 😉
 
 ### Languages and Tools:
